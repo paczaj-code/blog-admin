@@ -1,9 +1,10 @@
 import MainLayout from '../Layouts/MainLayout';
+import PageHeading from '../ui/DarkModeToggler/PageHeading/PageHeading';
 
 const CategoriesPage = () => {
   return (
     <MainLayout>
-      <h1>CategoriesPage </h1>
+      <PageHeading  title='Kategorie' />
     </MainLayout>
   );
 };

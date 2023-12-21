@@ -1,9 +1,10 @@
 import MainLayout from '../Layouts/MainLayout';
+import PageHeading from '../ui/DarkModeToggler/PageHeading/PageHeading';
 
 const PostsPage = () => {
   return (
     <MainLayout>
-      <h1>PostsPage </h1>
+      <PageHeading title='Artykuły'/>
     </MainLayout>
   );
 };

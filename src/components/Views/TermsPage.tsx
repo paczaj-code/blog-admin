@@ -1,9 +1,10 @@
 import MainLayout from '../Layouts/MainLayout';
+import PageHeading from '../ui/DarkModeToggler/PageHeading/PageHeading';
 
 const TermsPage = () => {
   return (
     <MainLayout>
-      <h1>TermsPage </h1>
+      <PageHeading title='Terminologia' />
     </MainLayout>
   );
 };

@@ -1,9 +1,10 @@
 import MainLayout from '../Layouts/MainLayout';
+import PageHeading from '../ui/DarkModeToggler/PageHeading/PageHeading';
 
 const ExersicesPage = () => {
   return (
     <MainLayout>
-      <h1>ExersicesPage </h1>
+      <PageHeading title='Zadania' />
     </MainLayout>
   );
 };
