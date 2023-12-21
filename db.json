@@ -1,0 +1,372 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Article 1",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 1",
+            "is_enabled": true
+        },
+        {
+            "id": 2,
+            "title": "Article 2",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 2",
+            "is_enabled": true
+        },
+        {
+            "id": 3,
+            "title": "Article 3",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 3",
+            "is_enabled": true
+        },
+        {
+            "id": 4,
+            "title": "Article 4",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 2",
+            "is_enabled": true
+        },
+        {
+            "id": 5,
+            "title": "New EWRTEWRTWET qwqwqrweqwe",
+            "created_at": "2023-12-11T19:13:19.940576+01:00",
+            "modified_at": "2023-12-11T19:13:19.940576+01:00",
+            "category_name": "Category 1",
+            "is_enabled": false
+        },
+        {
+            "id": 6,
+            "title": "DUPA",
+            "created_at": "2023-12-11T19:15:58.779668+01:00",
+            "modified_at": "2023-12-11T19:15:58.779668+01:00",
+            "category_name": "Category 1",
+            "is_enabled": false
+        }
+    ],
+    "terminology": [
+        {
+            "id": 2,
+            "name": "CORS",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 4"
+        },
+        {
+            "id": 3,
+            "name": "cos1",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 3"
+        },
+        {
+            "id": 4,
+            "name": "cos2",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 1"
+        },
+        {
+            "id": 5,
+            "name": "cos3",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 4"
+        },
+        {
+            "id": 6,
+            "name": "cos4",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 3"
+        },
+        {
+            "id": 7,
+            "name": "COR5",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 3"
+        },
+        {
+            "id": 8,
+            "name": "COR6",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 1"
+        },
+        {
+            "id": 9,
+            "name": "COR7",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 1"
+        },
+        {
+            "id": 10,
+            "name": "COR8",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 3"
+        },
+        {
+            "id": 11,
+            "name": "COR9",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 4"
+        },
+        {
+            "id": 12,
+            "name": "COR10",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 1"
+        },
+        {
+            "id": 13,
+            "name": "COR11",
+            "is_enabled": false,
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 3"
+        }
+    ],
+    "tags": [
+        {
+            "id": 1,
+            "name": "React",
+            "slug": "react",
+            "description": "React description",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "is_enabled": true
+        },
+        {
+            "id": 2,
+            "name": "Angular",
+            "slug": "angular",
+            "description": "Angular description",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "is_enabled": true
+        },
+        {
+            "id": 3,
+            "name": "SQL",
+            "slug": "sql",
+            "description": "SQL description",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "is_enabled": true
+        },
+        {
+            "id": 4,
+            "name": "MongoDB",
+            "slug": "mongodb",
+            "description": "MongoDB description",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "is_enabled": false
+        },
+        {
+            "id": 5,
+            "name": "Pandas",
+            "slug": "pandas",
+            "description": "Pandas description",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "is_enabled": false
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Category 1",
+            "category_type": [
+                "P"
+            ],
+            "icon": "icon-category-1",
+            "slug": "category-1",
+            "description": "",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "is_enabled": true,
+            "parent_id": null,
+            "sub_categories": [
+                {
+                    "id": 2,
+                    "name": "Subcategory 1",
+                    "category_type": [
+                        "P",
+                        "T"
+                    ],
+                    "icon": "icon-subcategory-1",
+                    "slug": "subcategory-1",
+                    "description": "",
+                    "created_at": "2023-12-11T19:11:30.559545+01:00",
+                    "modified_at": "2023-12-11T19:11:30.559545+01:00",
+                    "is_enabled": true,
+                    "parent_id": 1,
+                    "related_posts_no": 4,
+                    "related_practices_no": 4,
+                    "related_terms_no": 4
+                },
+                {
+                    "id": 3,
+                    "name": "Subcategory 2",
+                    "category_type": [
+                        "P"
+                    ],
+                    "icon": "icon-subcategory-1",
+                    "slug": "subcategory-2",
+                    "description": "",
+                    "created_at": "2023-12-11T19:11:30.559545+01:00",
+                    "modified_at": "2023-12-11T19:11:30.559545+01:00",
+                    "is_enabled": true,
+                    "parent_id": 1,
+                    "related_posts_no": 2,
+                    "related_practices_no": 2,
+                    "related_terms_no": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Category 2",
+            "category_type": [
+                "P",
+                "E"
+            ],
+            "icon": "icon-category-2",
+            "slug": "category-2",
+            "description": "",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "is_enabled": true,
+            "parent_id": null,
+            "sub_categories": [
+                {
+                    "id": 5,
+                    "name": "Subcategory 3",
+                    "category_type": [
+                        "P",
+                        "T"
+                    ],
+                    "icon": "icon-subcategory-3",
+                    "slug": "subcategory-3",
+                    "description": "",
+                    "created_at": "2023-12-11T19:11:30.559545+01:00",
+                    "modified_at": "2023-12-11T19:11:30.559545+01:00",
+                    "is_enabled": true,
+                    "parent_id": 4,
+                    "related_posts_no": 5,
+                    "related_practices_no": 5,
+                    "related_terms_no": 5
+                },
+                {
+                    "id": 6,
+                    "name": "Subcategory 4",
+                    "category_type": [
+                        "P",
+                        "E",
+                        "T"
+                    ],
+                    "icon": "icon-subcategory-4",
+                    "slug": "subcategory-4",
+                    "description": "",
+                    "created_at": "2023-12-11T19:11:30.559545+01:00",
+                    "modified_at": "2023-12-11T19:11:30.559545+01:00",
+                    "is_enabled": true,
+                    "parent_id": 4,
+                    "related_posts_no": 0,
+                    "related_practices_no": 0,
+                    "related_terms_no": 3
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Category 444",
+            "category_type": [
+                "P",
+                "T"
+            ],
+            "icon": "icon-category-1",
+            "slug": "category-1",
+            "description": "",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "is_enabled": true,
+            "parent_id": null,
+            "sub_categories": null
+        }
+    ],
+    "practices": [
+        {
+            "id": 1,
+            "name": "Dodawanie i usuwanie pól do tabel",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 3",
+            "exersices_no": 2,
+            "category_id": 5,
+            "is_enabled": true
+        },
+        {
+            "id": 2,
+            "name": "JSON w SQL",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Category 2",
+            "exersices_no": 1,
+            "category_id": 4,
+            "is_enabled": true
+        },
+        {
+            "id": 3,
+            "name": "Wstawianie danyc ",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 2",
+            "exersices_no": 0,
+            "category_id": 3,
+            "is_enabled": true
+        },
+        {
+            "id": 4,
+            "name": "Wstawianie dupa",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Category 1",
+            "exersices_no": 0,
+            "category_id": 1,
+            "is_enabled": true
+        },
+        {
+            "id": 5,
+            "name": "Wstawianie rrrr",
+            "created_at": "2023-12-11T19:11:30.559545+01:00",
+            "modified_at": "2023-12-11T19:11:30.559545+01:00",
+            "category_name": "Subcategory 1",
+            "exersices_no": 0,
+            "category_id": 2,
+            "is_enabled": true
+        }
+    ]
+}
