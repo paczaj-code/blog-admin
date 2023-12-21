@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-50: #d8fff9;
+  --color-100: #acfffd;
+  --color-200: #7ef9fb;
+  --color-300: #4ef0f9;
+  --color-400: #22e4f6;
+  --color-500: #09c3dd;
+  --color-600: #00a4ad;
+  --color-700: #007c7c;
+  --color-800: #004d48;
+  --color-900: #001d1b;
+}
+
+body {
+  @apply min-h-screen  bg-slate-900/95 text-gray-200;
+  background-image: url('https://www.transparenttextures.com/patterns/fabric-1-dark.png');
+}
+
+/* body.dark {
+  @apply;
+} */
