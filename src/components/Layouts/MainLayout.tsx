@@ -10,8 +10,7 @@ const MainLayout: React.FC<MainLayoutProps> = ({ children }) => {
       <aside className="w-64">
         <Sidebar />
       </aside>
-      <main>
-        <h1>cloe</h1>
+      <main className='flex-1'>
         {children}</main>
     </div>
   );
