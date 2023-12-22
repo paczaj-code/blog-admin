@@ -97,6 +97,7 @@ export default function App() {
                             isDisabled={pages<=1}
                             showControls
                             showShadow
+                            size="sm"
                             color="primary"
                             page={page}
                             total={pages}
