@@ -1,5 +1,5 @@
 import MainLayout from '../Layouts/MainLayout';
-import PageHeading from '../ui/DarkModeToggler/PageHeading/PageHeading';
+import PageHeading from '../ui/PageHeading/PageHeading';
 
 const PostsPage = () => {
   return (
